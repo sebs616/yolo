@@ -195,7 +195,6 @@ public class game extends JPanel implements Runnable, KeyListener
 	}
 
 
-	@Override
 	public void keyTyped(KeyEvent e) 
 	{
 
